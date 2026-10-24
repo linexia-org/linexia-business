@@ -1,33 +1,31 @@
 # Linexia Business
 
-**Linux for ordinary people and small businesses — with Odoo ERP & POS ready to use.**
+**The Only One Odoo ERP Ready to Use OS** — for beginners and ordinary people. **Always free.**
 
-Linexia Business is a free Debian-based Linux distribution from Indonesia.
-It ships with the COSMIC desktop and comes with Odoo Community (ERP and point of sale) preinstalled, so small businesses (UMKM) can start working right after installation.
+[![Download ISO](https://img.shields.io/badge/Download%20ISO-v1.57%20(6.1%20GB)-c8161d?style=for-the-badge&logo=linux&logoColor=white)](https://archive.org/download/linexia_business_1.57/linexia_business_1.57.iso)
+[![Website](https://img.shields.io/badge/Website-linexia.org-17171c?style=for-the-badge)](https://www.linexia.org/)
 
-## Features
-- Based on **Debian 13 (trixie)**, COSMIC 1.10 desktop
-- **Odoo 20 Community** (POS, Sales, CRM, Purchase, Inventory, Manufacturing, Project, Employees) + PostgreSQL 17, preinstalled
-- Office, PDF and CAD applications included
-- **Bazaar** app store (Flatpak / Flathub) — no terminal needed
-- Live ISO with Calamares installer, boots on BIOS and UEFI
-- Lightweight enough for older PCs that can't run Windows 11
+Linexia Business is a lightweight, stable Linux operating system (based on Debian 13, COSMIC desktop) that ships with **Odoo ERP & POS ready to use** right after installation — no server setup, no license fees. Built in Yogyakarta for small businesses (UMKM).
 
-## Download
-Latest release: **1.57** (17 October 2026)
-Download and checksums: https://www.linexia.org/download-temp/
+## Highlights
+- Odoo ERP & Point of Sale pre-installed and running locally (sales, purchase, inventory, manufacturing, employees)
+- Everyday apps included: FreeOffice, GIMP, Open CAD Studio, Pika Backup, and the Bazaar app store
+- Runs well on older PCs, including those that can't upgrade from Windows 10
+- Your data stays on your own computer
 
-## Getting started
-Installation guide and default logins: https://www.linexia.org/cara-memulai/
+## Download & install
+| | |
+|---|---|
+| Latest version | **1.57** |
+| ISO (direct) | [linexia_business_1.57.iso](https://archive.org/download/linexia_business_1.57/linexia_business_1.57.iso) |
+| Torrent | [linexia_business_1.57_archive.torrent](https://archive.org/download/linexia_business_1.57/linexia_business_1.57_archive.torrent) |
+| SHA256 | `a2136fa4c56ed564212381d9788255b5c77d012ff09da6cfc3f01ab922652731` |
+| All versions | [archive.org/details/@linexia](https://archive.org/details/@linexia) |
 
-## Tutorials (Bahasa Indonesia)
-- Odoo untuk UMKM: https://www.linexia.org/odoo-untuk-umkm/
-- Aplikasi kasir gratis: https://www.linexia.org/aplikasi-kasir-gratis/
-- Menambah aplikasi lewat Bazaar: https://www.linexia.org/menambah-aplikasi-lewat-toko-aplikasi/
-
-## Contact
-Linexia — Excowork, Yogyakarta, Indonesia
-linexia.business@gmail.com · https://www.linexia.org
+1. Download the ISO (≈6.1 GB).
+2. Optional: verify with `sha256sum linexia_business_1.57.iso` — it must match the SHA256 above.
+3. Write it to a USB drive (16 GB or larger) with balenaEtcher, Rufus (DD mode) or Ventoy.
+4. Boot the PC from the USB drive and follow the installer.
 
 ---
-🇮🇩 *Linux ringan + Odoo ERP dan Kasir gratis untuk UMKM.*
+🇮🇩 **Linux ringan + Odoo ERP dan Kasir gratis untuk UMKM.** Unduh ISO di atas, tulis ke flashdisk (min. 16 GB) dengan balenaEtcher/Rufus/Ventoy, lalu boot dari flashdisk.
