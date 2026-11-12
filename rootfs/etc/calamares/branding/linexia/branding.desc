@@ -1,0 +1,31 @@
+# branding.desc on Debian penguins-eggs 26.7.29
+---
+componentName: linexia
+images:
+  productIcon: linexia-logo.png
+  productLogo: linexia-logo.png
+  productWelcome: welcome.png
+slideshow: show.qml
+slideshowAPI: 1
+strings:
+  bootloaderEntryName: Debian
+  knownIssuesUrl: https://github.com/pieroproietti/penguins-eggs/issues/
+  productName: LINEXIA BUSINESS LINEXIA
+  productUrl: https://linexia.org
+  releaseNotesUrl: https://linexia.org/bugs
+  shortProductName: linexia business linexia
+  shortVersion: 2026.10.17
+  shortVersionedName: LINEXIA BUSINESS LINEXIA 2026-10-17
+  supportUrl: https://linexia.org/support
+  version: '2026-10-17'
+  versionedName: linexia business linexia (2026.10.17)
+style:
+  SidebarBackground: '#292F34'
+  sidebarBackground: '#292F34'
+  SidebarBackgroundCurrent: '#D35400'
+  sidebarBackgroundCurrent: '#D35400'
+  SidebarText: '#FFFFFF'
+  sidebarText: '#FFFFFF'
+  SidebarTextCurrent: '#292F34'
+  sidebarTextCurrent: '#292F34'
+welcomeStyleCalamares: true

@@ -27,5 +27,11 @@ Linexia Business is a lightweight, stable Linux operating system (based on Debia
 3. Write it to a USB drive (16 GB or larger) with balenaEtcher, Rufus (DD mode) or Ventoy.
 4. Boot the PC from the USB drive and follow the installer.
 
+## Source & build configuration
+Linexia Business is built from an installed Debian 13 system with [penguins-eggs](https://github.com/pieroproietti/penguins-eggs) and the Calamares installer. This repository holds the system configuration files and package lists Linexia adds on top of Debian. See [docs/BUILD.md](docs/BUILD.md) for the build steps.
+
+## License
+Build configuration and scripts: [GPL-3.0](LICENSE). Every bundled program keeps its own licence. The ISO also includes a few proprietary apps and non-free firmware, which are listed in [NOTICE.md](NOTICE.md).
+
 ---
 🇮🇩 **Linux ringan + Odoo ERP dan Kasir gratis untuk UMKM.** Unduh ISO di atas, tulis ke flashdisk (min. 16 GB) dengan balenaEtcher/Rufus/Ventoy, lalu boot dari flashdisk.
